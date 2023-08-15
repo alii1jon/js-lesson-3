@@ -35,6 +35,5 @@
 -  ECMAScript 3 (1999)
 - ECMAScript 5 (2009)
 - ECMAScript 2015 (ES6)
-
 - ECMAScript 2016 (ES7)
 - ECMAScript 2017 (ES8)
